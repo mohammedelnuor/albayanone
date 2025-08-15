@@ -1,0 +1,184 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "language": "العربية"
+  },
+  "header": {
+    "title": "al-bayan",
+    "subtitle": "construction general",
+    "description": "Your partner in construction, from foundation to finishing. We serve you with expertise and quality in executing all construction and finishing works, backed by a specialized team and complete equipment",
+    "projects_button": "Previous Projects"
+  },
+  "services": {
+    "our": "Our",
+    "title": "Services",
+    "description": "We blend engineering precision with architectural creativity to deliver projects that stand the test of time. From concept to completion, our team ensures quality, safety, and client satisfaction every step of the way.",
+    "civil": {
+      "title": "Civil & Architectural Works",
+      "point1": "Structural safety through regular inspection and maintenance.",
+      "point2": "Renovation and modernization of facilities to meet contemporary standards.",
+      "point3": "Risk assessment to ensure safety and stability."
+    },
+    "contracting": {
+      "title": "General Contracting for Buildings",
+      "point1": "Project management from inception to delivery.",
+      "point2": "Design and construction with a quality that combines functionality and aesthetics.",
+      "point3": "Quality control in accordance with local and international standards."
+    },
+    "infrastructure": {
+      "title": "Infrastructure Development",
+      "point1": "Construction of roads and bridges.",
+      "point2": "Installation of essential utilities (water, electricity, telecommunications).",
+      "point3": "Sanitary and stormwater drainage works."
+    }
+  },
+  "construction": {
+    "title": "Construction",
+    "subtitle": "& Contracting",
+    "services": "Services",
+    "description": "At Construction & Contracting Services, we deliver comprehensive solutions that blend engineering precision, architectural creativity, and execution commitment. Our specialized team transforms your vision into reality — from initial planning to the final finishing touch — all while adhering to the highest global standards of quality.",
+    "civil": {
+      "title": "Civil & Architectural Works",
+      "point1": "Specialized surveying teams",
+      "point2": "Professional designers",
+      "point3": "Accurate review",
+      "point4": "Quantity estimations",
+      "point5": "GIS organization"
+    },
+    "surveying": {
+      "title": "Site Surveying & Plan Execution",
+      "point1": "Plastering (inside/outside)",
+      "point2": "High-quality painting",
+      "point3": "Insulation",
+      "point4": "Ceramic work",
+      "point5": "Backfilling",
+      "point6": "Electrical & plumbing"
+    },
+    "concrete": {
+      "title": "Concrete Execution",
+      "point1": "Cladding, columns",
+      "point2": "Foundation work"
+    },
+    "strengths": {
+      "title": "Our Distinguishing Strengths",
+      "point1": "Expertise – Integrated facility management",
+      "point2": "Holistic Approach – Experienced team",
+      "point3": "Client-Centric – Tailored solutions",
+      "point4": "Innovation – Latest tech & methods",
+      "point5": "Sustainability – Eco-friendly processes",
+      "point6": "Timeliness – On-time, on-budget delivery",
+      "image_alt": "Distinguishing strengths image"
+    }
+  },
+  "department": {
+    "title": "Our Departments",
+    "description": "Specialized departments working together to deliver exceptional results.",
+    "surveying": {
+      "title": "Surveying Works",
+      "description": "At Al-Bayan, our surveying division is equipped with experienced professionals and cutting-edge technology to deliver precise land assessments. Whether it's boundary demarcation, topographic mapping, or site analysis, our team ensures accurate data collection that forms the foundation for successful engineering and construction projects."
+    },
+    "concrete": {
+      "title": "Concrete Works",
+      "description": "At Al-Bayan, we specialize in high-quality concrete works that serve as the backbone of strong and durable construction. Our services include concrete casting, reinforcement installation, formwork, and surface finishing—all delivered with precision and care. Whether its residential buildings, commercial complexes, or infrastructure projects, our concrete expertise guarantees lasting performance. Using advanced techniques and industry-grade materials, our team ensures every concrete structure meets rigorous standards of safety and durability. We work closely with architects and engineers to deliver customized solutions that align with project requirements and design visions. At Al-Bayan, concrete is not just a material—it's a commitment to excellence from the ground up."
+    },
+    "images": {
+      "alt1": "Department service image 1",
+      "alt2": "Department service image 2",
+      "alt3": "Department service image 3"
+    }
+  },
+  "footer": {
+    "rights": "All Rights Reserved",
+    "company": "Al Bayan Construction General Contracting Est."
+  },
+  "error": {
+    "title": "Something went wrong!",
+    "message": "We apologize for the inconvenience. Please try again later.",
+    "tryAgain": "Try again"
+  },
+  "notFound": {
+    "title": "404 - Page Not Found",
+    "message": "The page you are looking for does not exist or has been moved.",
+    "backHome": "Back to Home"
+  },
+  "projects": {
+    "title": "Our Projects",
+    "projectDetails": "Project Details",
+    "projectList": "Project List",
+    "projects": [
+      {
+        "name": "Hoarding Works",
+        "description": "Execution and design of site barricades (hoarding) with high quality, including."
+      },
+      {
+        "name": "HVAC works",
+        "description": "Supplying, installing, and maintaining air conditioning systems to ensure a comfortable and safe environment"
+      },
+      {
+        "name": "Infrastructure & Sanitation Projects",
+        "description": "Building sustainable foundations and clean environments for thriving communities."
+      },
+      {
+        "name": "Financial Center Project",
+        "description": "King Abdullah Financial District: A global investment destination in the heart of Riyadh, blending cutting-edge architecture with smart infrastructure to drive Saudi economic growth"
+      },
+      {
+        "name": "Architectural and Civil Works",
+        "description": "Where architectural creativity meets civil excellence — shaping spaces with purpose and precision"
+      }
+    ]
+  },
+  "about": {
+    "mission": {
+      "title": "Our Mission",
+      "description": "We strive to provide world-class contracting services, committed to innovation, quality, and sustainability. Our goal is to exceed client expectations through advanced technologies, strong partnerships, and empowering our team to deliver landmark projects. We focus on economic growth, improving community well-being, and actively contributing to Saudi Arabia's Vision 2030."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "description": "Our guiding principles shape everything we do—from delivering excellence in our projects to building lasting partnerships. These five values reflect our commitment to integrity, innovation, and impact.",
+      "integrity": {
+        "title": "Integrity",
+        "description": "We uphold the highest standards of honesty and transparency in all our actions."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We embrace creativity and seek new ways to improve our services and solutions."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "We are committed to delivering excellence in every project we undertake."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "We prioritize environmentally responsible practices for a better future."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "We believe in the power of teamwork and strong partnerships."
+      }
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To lead the future of sustainable construction and set new standards for innovation and excellence. We aim to transform Saudi Arabia's infrastructure in line with Vision 2030, to create a smarter, greener, more prosperous future for all."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "location": {
+      "title": "Our Location"
+    },
+    "form": {
+      "description": "Fill out the form below and we will respond to you as soon as possible",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Submit",
+      "sending": "Sending...",
+      "success": "Your message has been sent successfully!",
+      "error": "There was an error sending your message. Please try again."
+    }
+  }
+}

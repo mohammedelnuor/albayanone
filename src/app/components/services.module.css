@@ -1,0 +1,15 @@
+.rtlJustifyEnd {
+  justify-content: flex-end;
+}
+
+.ltrJustifyStart {
+  justify-content: flex-start;
+}
+
+.rtlTextAlign {
+  text-align: right;
+}
+
+.ltrTextAlign {
+  text-align: left;
+}
